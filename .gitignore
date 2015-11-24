@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# VS Project
+*.suo
+*.sdf
+
+
+
+*bin/
+*obj/
+*Debug/
